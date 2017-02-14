@@ -2,7 +2,7 @@
 
 Project will be released soon!
 
-A tool which makes it easier to generate a jar file similar to the 'Export' feature that Eclipse but with command-line instead. 
+A tool which makes it easier to generate a jar file similar to the 'Export' feature that Eclipse has but with command-line instead. 
 
 <h3> Usage </h3>
 
